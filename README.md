@@ -1,6 +1,6 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=tomgx&show_icons=true&theme=nord&custom_title=Stats&count_private=true" />
+<img align="center" height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=tomgx&show_icons=true&theme=nord&custom_title=Stats&count_private=true" />
 </a>
 
 <br/>
